@@ -22,9 +22,6 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2"
   },
-  "scripts": {
-    "test": "HUBOT_SLACK_TOKEN=xoxb-60144077266-CrRdXtdM795V563zH2eCq3Pb ./bin/hubot --adapter slack"
-  },
   "engines": {
     "node": "6.1.x"
   }
